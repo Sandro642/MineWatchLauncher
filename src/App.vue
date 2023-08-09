@@ -63,7 +63,7 @@ export default {
       intervalId: null,
       showTableContent: true,
       showAPIPageContent: false,
-      apiUrl: 'https://hungrycodes.alwaysdata.net/api.php', // URL de l'API par défaut
+      apiUrl: 'urldevotreapi', // URL de l'API par défaut
     };
   },
   computed: {
